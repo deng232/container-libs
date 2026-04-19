@@ -3,7 +3,7 @@
 nix run github:deng232/container-libs\
 &nbsp;&nbsp;&nbsp;   build
 
-# Usage
+# Usage - use code mode to see omitted newline
 Usage: containers-storage command [options [...]]
 
 Commands:
